@@ -1,0 +1,27 @@
+#styleCode_in_src_folder
+body{
+    background-color:rgb(241, 111, 241);
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0%;
+    font-family: sans-serif;
+}
+
+div{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -30px;
+}
+h1{
+    
+    padding: 20px 20px;
+    background-color: rgb(233, 247, 50);
+    color:tomato;
+    border-radius: 25px;
+}
+span{
+    color:pink;
+}
