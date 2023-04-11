@@ -1,5 +1,5 @@
 Steps to learn react easily.
-Initial steps: 
+Initial steps(MAnage File structure): 
 1. Install by npx create-react-app AppName
 2.Run server by npm start
 3.Delete  all not-so-important files in public and src folder
