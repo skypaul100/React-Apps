@@ -1,0 +1,25 @@
+
+
+div{
+  align-items: center;
+  display:flex;
+  width:100%;
+  height: 100vh;
+  justify-content: center;
+  flex-direction: column;
+}
+h1{
+    color: aliceblue;
+    background: transparent;
+    text-shadow: 0 2px 2px black;
+}
+button{
+    padding: 12px 20px;
+    cursor: pointer;
+    background: rgb(241, 103, 126);
+    color: white;
+    border: 2px solid lightseagreen;
+    outline: none;
+    border-radius: 5px;
+    text-transform: uppercase;
+}
