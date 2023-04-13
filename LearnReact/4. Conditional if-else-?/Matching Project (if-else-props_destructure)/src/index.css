@@ -1,0 +1,29 @@
+.heading_style{
+   background-color: lightblue;
+   justify-content: center;
+   text-align: center;
+   padding:30px;
+   text-transform: uppercase;
+   letter-spacing: 2px;
+   margin-bottom: 30px;
+
+}
+.inner_Div{
+
+background-color: lightpink;
+   justify-content: center;
+   text-align: center;
+   padding:5px;
+   letter-spacing: 1px;
+   margin-top: 10px;
+}
+
+@media (max-width: 530px)
+{
+    .inner_Div{
+        background-color: lightgreen;
+    }
+.heading_style{
+    background-color: lightcoral;
+}
+}
