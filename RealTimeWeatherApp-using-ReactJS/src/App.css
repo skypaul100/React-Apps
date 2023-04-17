@@ -1,0 +1,47 @@
+.weatherBg{
+    background: url("https://cdn.pixabay.com/photo/2015/12/25/13/03/sky-1107579__340.jpg"); 
+    /* background: url("https://cdn.pixabay.com/photo/2017/12/18/09/54/lago-di-limides-3025780__340.jpg");    */
+    
+    height: 50vh; 
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+     background-size: 100% 100%;
+    background-repeat: none; 
+  }
+  .heading{
+    color: orangered;
+    background: white;
+    font-weight: 700;
+    border-radius: 5px;
+  }
+  .weatherResultBox{
+    margin: auto;
+    width: 500px;
+    height: 300px;
+  }
+  .weatherIcon{
+    margin-bottom: 1rem;
+    width: 30%;
+    height: 36%;
+  }
+  .weatherCity{
+    font-size: 35px;
+  }
+  .weatherTemp{
+    font-size:55px;
+    font-weight: 700;
+  }
+  @media(max-width:700px)
+  {
+    .weatherBg{
+        background: url("https://cdn.pixabay.com/photo/2017/12/18/09/54/lago-di-limides-3025780__340.jpg");   
+         background-size: 100% 100%;
+    }
+    .heading{
+        color: white;
+        background: none;
+      }
+  }
+ 
