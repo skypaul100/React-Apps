@@ -6,7 +6,7 @@ import name1, {name0 , name2 ,fnName } from "./App";
 
 ReactDOM.render(
   <div>
-    <ol>Import/Export in ES6
+    <ol>Import/Export in ES6//import
       <li>{name0()}</li>
       <li>{name1}</li>
       <li>{name2}</li>
