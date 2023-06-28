@@ -1,5 +1,5 @@
 const name0=() => {  // arrow func.
-  let name0="Alpha";
+  let name0="Alpha";//code
   return name0;
 }
 
