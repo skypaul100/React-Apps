@@ -1,5 +1,6 @@
 //Built on React
 //14 Apr'23 | 17:05
+//index file
 
 import React from "react";
 import ReactDOM from "react-dom";
